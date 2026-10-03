@@ -8,7 +8,9 @@ app's built-in music and mixes it on the built-in deck.
 1. One of you clicks **CREATE ROOM** and sends the other the code. The other
    types it under **Join a booth** and clicks **JOIN ROOM**.
 2. In **Booth Check**:
-   - **What you send**: one of you picks **Test music: Groove**, the other
+   - **What you send**: click **Use my own song** and pick a song from your
+     laptop (MP3, WAV, FLAC, M4A, AIFF, OGG). It plays on the built-in deck.
+     No song handy? One of you picks **Test music: Groove**, the other
      **Test music: Bells** (so you can tell the two songs apart).
    - **Where you listen**: your headphones. On many Windows laptops the
      headphone jack is called **"Realtek HD Audio 2nd output"**.
@@ -30,6 +32,7 @@ you hear your own deck and the other DJ together.
 | **Space** | Off air: ask for the booth. On air, while the other DJ asks: let them in |
 | **N** | On air: "not yet" to the other DJ's ask. Off air: take back your ask |
 | **R** | Ready: tells the other DJ you're about to take over |
+| **LOAD SONG** | Puts your next song on the deck, cued and paused. Load it while the other DJ plays (not while your own song is on air). |
 
 To trade off: the DJ who is cueing presses **P**, then **S**, brings their
 fader up, presses **R**, then **Space** to ask for the booth. The DJ on air
